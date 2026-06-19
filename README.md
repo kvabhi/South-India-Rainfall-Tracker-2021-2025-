@@ -41,3 +41,6 @@ This project highlights the importance of going beyond simple descriptive statis
 ## 📌 Outcome
 
 The final output is an interactive rainfall tracker that enables users to explore historical rainfall patterns across South India in an engaging and informative way. The project demonstrates practical skills in Python-based data analysis, visualization, and communicating insights from real-world datasets.
+
+<img width="1453" height="950" alt="image" src="https://github.com/user-attachments/assets/a4584db1-19a0-4670-99ae-bacdf7b8d70e" />
+<img width="1453" height="950" alt="image" src="https://github.com/user-attachments/assets/fa59542f-0c0a-4a4d-b457-497de6a330cc" />
